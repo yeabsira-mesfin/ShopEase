@@ -25,3 +25,7 @@ bash
 Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to view the application.
+
+
+Acknowledgments
+React
