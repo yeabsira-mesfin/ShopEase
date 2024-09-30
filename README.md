@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/shopease.git
+git clone [https://github.com/yourusername/shopease.git](https://github.com/yeabsira-mesfin/ShopEase)
 cd shopease
 Install dependencies:
 
@@ -25,21 +25,3 @@ bash
 Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to view the application.
-
-Contributing
-We welcome contributions to enhance the ShopEase project! Please follow these steps:
-
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature/YourFeatureName
-Make your changes and commit them:
-bash
-Copy code
-git commit -m "Add a feature"
-Push to the branch:
-bash
-Copy code
-git push origin feature/YourFeatureName
-Open a pull request.
