@@ -1,6 +1,7 @@
 import { useRef,useContext } from 'react';
 import {CartContext} from '../store/ShoppingCartContext.jsx'
 import CartModal from './CartModal.jsx';
+import log from '../../public/logo.png'
 
 export default function Header() {
   const modal = useRef();
@@ -31,7 +32,7 @@ export default function Header() {
       />
       <header id="main-header">
         <div id="main-title">
-          <img src="logo.png" alt="Elegant model" />
+          <img src={log} alt="Elegant model" />
           <h1>Elegant Context</h1>
         </div>
         <p>
